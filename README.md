@@ -5,3 +5,5 @@ For 2 player Game there is status textView , which shows if the opponent is conn
 
 This app uses firebase for authentication and storing other user data.
 
+# TODO
+Add firebase console credentials and links to realtime database marked as todo 
